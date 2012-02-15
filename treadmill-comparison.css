@@ -1,0 +1,15 @@
+table#admin-treadmill-comparison { background-color: #ccc; border-spacing: 1px; }
+table#admin-treadmill-comparison td, table#admin-treadmill-comparison th { padding: 1px 4px; }
+table#admin-treadmill-comparison th { background-color: #7e7e7e; color: #fff; font: normal 13px/18px Georgia,"Times New Roman","Bitstream Charter",Times,serif; }
+table#admin-treadmill-comparison tr.odd td { background-color: #fff; }
+table#admin-treadmill-comparison tr.even td { background-color: #f6f6f6; }
+table#admin-treadmill-comparison tr:hover td { background-color: #fff5c8; }
+
+.treadmill-comparison-form-field { clear: both; }
+.treadmill-comparison-label-container { width: 150px; display: block; float: left; padding-top: 5px; }
+
+table#comparison-table { background-color: #ccc; border-spacing: 1px; }
+table#comparison-table td, table#comparison-table th { padding: 1px 4px; }
+table#comparison-table th { background-color: #e3e2ce; }
+table#comparison-table tr.odd td { background-color: #fff; }
+table#comparison-table tr.even td { background-color: #f6f6f6; }
